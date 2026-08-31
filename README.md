@@ -11,3 +11,8 @@ Features:
 - Track raw material stock.
 - Update stock when materials are used.
 - Monitor low-stock materials.
+- Customers can search bakery products.
+- Customers can place orders online.
+- Customers can check order status.
+- Generate sales reports.
+- Generate inventory reports.
